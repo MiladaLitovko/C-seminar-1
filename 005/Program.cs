@@ -19,3 +19,5 @@ else
         number++;
     }
 }
+
+// можно через Math.Abs(number)
